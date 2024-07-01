@@ -18,7 +18,7 @@ func main() {
 	fmt.Scan(&investmentAmount)
 
 	// fmt.Print("Expected Return Rate: ")
-	outputText("Expected Return Rate: ")
+	outputText("Expected Return Rate is: ")
 	fmt.Scan(&expectedReturnRate)
 
 	// fmt.Print("Years: ")
